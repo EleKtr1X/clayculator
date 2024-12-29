@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "compare": "c",
+    "concepts": "c",
+    "cstdlib": "c",
+    "type_traits": "c",
+    "cmath": "c",
+    "limits": "c",
+    "new": "c"
+  }
+}
